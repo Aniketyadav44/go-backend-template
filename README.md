@@ -28,7 +28,6 @@ go-backend-template/
 ├── api/
 │   └── v1/
 │       └── routes.go               # API route definitions
-services
 ├── go.mod                          # Go module file
 ├── go.sum                          # Dependency checksums
 └── README.md                       # Project documentation
